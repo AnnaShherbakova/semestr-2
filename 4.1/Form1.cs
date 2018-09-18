@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
+//Написать программу, которая наглядно иллюстрирует работу сортировку методом пузырька
 namespace _4._1
 {
     public partial class Form1 : Form
