@@ -1,0 +1,9 @@
+c:\users\asus\source\repos\Аттестация\LogicLibrary\bin\Debug\netstandard2.0\LogicLibrary.deps.json
+c:\users\asus\source\repos\Аттестация\LogicLibrary\bin\Debug\netstandard2.0\LogicLibrary.dll
+c:\users\asus\source\repos\Аттестация\LogicLibrary\bin\Debug\netstandard2.0\LogicLibrary.pdb
+c:\users\asus\source\repos\Аттестация\LogicLibrary\obj\Debug\netstandard2.0\LogicLibrary.csprojAssemblyReference.cache
+c:\users\asus\source\repos\Аттестация\LogicLibrary\obj\Debug\netstandard2.0\LogicLibrary.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\Аттестация\LogicLibrary\obj\Debug\netstandard2.0\LogicLibrary.AssemblyInfoInputs.cache
+c:\users\asus\source\repos\Аттестация\LogicLibrary\obj\Debug\netstandard2.0\LogicLibrary.AssemblyInfo.cs
+c:\users\asus\source\repos\Аттестация\LogicLibrary\obj\Debug\netstandard2.0\LogicLibrary.dll
+c:\users\asus\source\repos\Аттестация\LogicLibrary\obj\Debug\netstandard2.0\LogicLibrary.pdb
