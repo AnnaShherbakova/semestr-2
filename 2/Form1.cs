@@ -11,6 +11,8 @@ using System.Windows.Forms;
 using LogicLibrary;
 using System.IO;
 
+//30. Покрыть все клетки шахматной доски ходом коня,
+//начальное положение коня на поле с координатами x0, y0
 namespace _2
 {
     public partial class Form1 : Form
