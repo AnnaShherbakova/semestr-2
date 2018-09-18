@@ -8,6 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 using LogicLibrary;
 
+//В заданном дереве найти поддерево двоичного поиска с максимальным количеством элементов.
 namespace _5._1
 {
     public partial class FormMain : Form
